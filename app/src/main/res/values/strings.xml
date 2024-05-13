@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Lab Exam 04</string>
+    <string name="add_notes">Add Notes.</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="notes">Notes.</string>
+    <string name="edit_notes">Edit Notes.</string>
+    <string name="enter_the_title_1">Enter the title</string>
+    <string name="enter_the_description_1">Enter the description</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
 </resources>
