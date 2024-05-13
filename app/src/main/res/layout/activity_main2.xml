@@ -11,11 +11,15 @@
         android:id="@+id/notesHeading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:text="@string/notes"
         android:layout_marginStart="18dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/croissant_one"
+        android:text="@string/notes"
         android:textColor="@color/orange"
-        android:textSize="24sp"/>
+        android:textSize="24sp"
+        android:textStyle="bold" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/notesRecyclerView"
